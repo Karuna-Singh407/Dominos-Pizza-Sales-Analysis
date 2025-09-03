@@ -1,10 +1,6 @@
 Pizza Sales Analysis
 
 - Objective: Analyzed pizza sales data to uncover insights into sales performance, customer preferences, and revenue generation.
-
-- Database Design and Management:
-  - Created a relational database named `Pizza_Hut` with tables for pizzas, pizza types, orders, and order details.
-  - Designed and implemented SQL queries to manage and manipulate data.
   
 - Key Analyses:
   - Identified pizza types containing specific ingredients, such as garlic.
