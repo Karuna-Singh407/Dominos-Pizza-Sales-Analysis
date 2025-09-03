@@ -3,10 +3,10 @@ Pizza Sales Analysis
 - Objective: Analyzed pizza sales data to uncover insights into sales performance, customer preferences, and revenue generation.
   
 - Key Analyses:
-  - Identified pizza types containing specific ingredients, such as garlic.
-  - Analyzed order patterns, including peak order times and most common pizza sizes.
-  - Calculated total revenue, identified the highest-priced pizzas, and determined the top pizza types based on sales.
-  - Conducted comprehensive revenue analysis, including cumulative revenue over time and revenue contributions by pizza type.
+  - Identified the most common pizza size ordered.
+  - Top 5 most ordered pizza types along with their quantities.
+  - Determined the distribution of orders by hour of the day.
+  - Determined the top 3 most ordered pizza types based on revenue.
 
 - Results:
   - Provided actionable insights to improve product offerings and marketing strategies.
